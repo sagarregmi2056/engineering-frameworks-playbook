@@ -10,30 +10,7 @@ This is the living, open-source companion to the blog series
 
 Everything here is battle-tested in real companies (startups to BigTech) and kept brutally up-to-date.
 
-## What's Inside (so far)
 
-├── architecture/                  # Part 1 – Architecture & Design
-│   ├── c4-model/
-│   │   ├── ecommerce-example.structurizr  (open with Structurizr Lite)
-│   │   ├── ecommerce-mermaid.md
-│   │   └── README.md
-│   ├── event-storming-workshop/
-│   │   ├── template-miro-board.json
-│   │   └── facilitation-guide.md
-│   ├── hexagonal-clean-architecture/
-│   │   └── example-go-java-spring.md
-│   └── adr/                       # Architecture Decision Record templates
-│       ├── ADR-0001-use-c4-model.md
-│       └── template.md
-│
-├── process/                       # Coming after blog Part 2
-├── quality-reliability/           # Coming after blog Part 3
-├── data-modeling/                 # Coming after blog Part 4
-├── communication/                 # Coming after blog Part 5
-└── career-level-checklists/
-├── junior-checklist.md
-├── mid-level-checklist.md
-└── senior-architect-checklist.md
 
 
 
