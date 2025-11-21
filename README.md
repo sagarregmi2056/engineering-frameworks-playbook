@@ -37,8 +37,6 @@ This repo (and the blog series) fixes that:
 5. Communication & Documentation (C4, ADR, UML that doesn’t suck)  
 6. The “Soft” Frameworks Only Seniors Need  
 
-Subscribe → https://yourdomain.com/newsletter
-
 ## Contributing
 
 Found something outdated? Missing your favorite framework?  
@@ -49,7 +47,7 @@ Open an issue or PR — I merge fast if it’s practical and seniority-tagged.
 sagar regmi 
  
 - LinkedIn: https://www.linkedin.com/in/sagar-regmi-60b377216/
-- Portfolio & Newsletter: yourdomain.com  
+
 
 If this helped you get a promotion or pass an architect interview, buy me a coffee or just tweet that you starred the repo. That’s all I ask ☕
 
